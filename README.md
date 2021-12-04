@@ -12,6 +12,6 @@ The project is completed in 5 steps:
 With the elbow method and silhouette analysis, 3 clusters is found to be the optimum number of cluster for the KMeans clustering model.
 
 The 3 clusters formed are names as:
-1. High value and loyaL customers.
+1. High value and loyal customers.
 2. Average value and ordinary customers.
 3. Low value and casual customers.
