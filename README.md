@@ -4,12 +4,12 @@ Customer segmentation is done on a UK based online store, that sells unique all 
 
 The project is completed in 5 steps:
 1. Data Cleaning
-2. Exploratory Data Analysis
+2. Exploratory Data Analysis (EDA)
 3. Data Transformation
 4. Clustering
 5. Cluster Profiling
 
-With the elbow method and silhouette analysis, 3 clusters is found to be the optimum number of cluster for the KMeans clustering model.
+With the elbow method and silhouette analysis, 3 clusters is found to be the optimum number of clusters for the KMeans clustering model.
 
 The 3 clusters formed are names as:
 1. High value and loyal customers.
