@@ -1,7 +1,8 @@
-# Customer-Segmentation
-# Customer Segmentation (AlmaBetter Verified Project)
+<h1 align="center"> Customer Segmentation </h1>
+<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
-## Summary 
+
+## 📋 Summary 
 Customer segmentation is done on a UK based online store, that sells unique all occasion gifts. A recency, frequency and monetary analysis (RFM) is used to segment customers.
 
 The project is completed in 5 steps:
@@ -18,8 +19,12 @@ The 3 clusters formed are names as:
 2. Average value and ordinary customers.
 3. Low value and casual customers.
 
-## References
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## 📚 References
 1. RFM Analysis - https://clevertap.com/blog/rfm-analysis/
 2. K-Means Clustering - https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
 3. Elbow Method - https://www.scikit-yb.org/en/latest/api/cluster/elbow.html
 4. Customer Lifetime Value  - https://www.chargebee.com/blog/saas-metric-customer-life-time-cltv/
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
